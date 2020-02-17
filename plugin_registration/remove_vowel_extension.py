@@ -1,4 +1,4 @@
-from word_processor import WordProcessor, register
+from plugin_registration.word_processor import WordProcessor, register
 
 
 @register(WordProcessor.PLUGINS)

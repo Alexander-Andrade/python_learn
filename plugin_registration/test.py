@@ -1,6 +1,5 @@
 import unittest
-from remove_vowel_extension import RemoveVowelExtension
-from word_processor import WordProcessor
+from plugin_registration.word_processor import WordProcessor
 
 
 class TestRemoveVowelExtension(unittest.TestCase):
